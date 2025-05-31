@@ -6,4 +6,4 @@ This script can calculate your age if you awnser the questions...
 
 AgeGeussing.py     is the main app
 AgeGeusserClassic.py    is the classic app without multiple choice questions
-AgePredicter.py   is the old version, but it will show you real age range without having to awnser the age question (this is also a joke ofc)
+AgePredicter.py   is the old version, but it will show you real age range without having to awnser the age question (this is also a joke ofcourse)
